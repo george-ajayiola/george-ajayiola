@@ -12,7 +12,7 @@ My journey through computer science has sparked a real passion for cybersecurity
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | SIEM Implementation and Log Analysis          | <a href="https://github.com/george-ajayiola/azure-sentinel-monitor-live-attacks">SIEM Lab</a>|
-| Incident Response Planning and Execution      | SOC Automation Lab|
+| Intrusion Detection System Implementation and Active Threat Response     | SOC Automation Lab|
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
 ## Tools
