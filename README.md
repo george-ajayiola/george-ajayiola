@@ -1,11 +1,11 @@
 # Hello, I'm Ajayi George
 <a href="https://linkedin.com/in/george-ajayi-9176b1241"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
+Experienced cybersecurity professional and consultant with a strong foundation in securing systems and infrastructure. Skilled in implementing DevSecOps practices to enhance security posture and mitigate risks. 
 
 ## Objective
 
-My journey through computer science has sparked a real passion for cybersecurity. Now, I'm excited to dive into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+Passionate about leveraging technology to solve complex cybersecurity challenges and dedicated to continuous learning and innovation in the field.
 
 ## Skills
 
