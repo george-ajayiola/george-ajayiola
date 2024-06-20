@@ -3,9 +3,10 @@
 
 Experienced cybersecurity professional and consultant with a strong foundation in securing systems and infrastructure. Skilled in implementing DevSecOps practices to enhance security posture and mitigate risks. 
 
+
 ## Objective
 
-Passionate about leveraging technology to solve complex cybersecurity challenges and dedicated to continuous learning and innovation in the field.
+Highly motivated cybersecurity professional with a strong passion for leveraging cutting-edge technology to address complex security challenges. Dedicated to continuous learning and innovation, I aim to protect organizational assets, enhance security protocols, and contribute to the development of robust, secure systems. Seeking to apply my expertise in a dynamic environment where I can drive impactful cybersecurity initiatives and foster a culture of security awareness and resilience.
 
 ## Skills
 
@@ -19,6 +20,7 @@ Passionate about leveraging technology to solve complex cybersecurity challenges
 -  Version Control: Git, GitHub
 -  Programming & Scripting Languages:Python, Bash
 -  CI/CD: Jenkins, ArgoCD
+-  Monitoring: Prometheus, Grafanna, Kiali
 - Containerization & Orchestration: Docker, Kubernetes
 - Security Tools: SIEM solutions, Wazuh, Nessus, OWASP ZAP
 - Service Mesh: Istio
