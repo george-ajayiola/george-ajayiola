@@ -15,7 +15,7 @@ Highly motivated cybersecurity professional with a strong passion for leveraging
 | SIEM Implementation and Log Analysis          | <a href="https://github.com/george-ajayiola/azure-sentinel-monitor-live-attacks">SIEM Lab</a>|
 | Intrusion Detection System Implementation and Active Threat Response     | <a href="https://github.com/george-ajayiola/Intrusion-detection-lab-with-wazuh">Intrusion detection lab</a>|
 | Kubernetes Security: Ensuring Compliance and Vulnerability Management in Kubernetes Clusters|  <a href="https://github.com/george-ajayiola/kubescape-demo">K8s Security Scan</a>|
-| Microservices Security|  <a href="https://github.com/george-ajayiola/kubescape-demo">Service mesh</a>|
+| Comprehensive Microservices Security|  <a href="https://github.com/george-ajayiola/kubescape-demo">Service mesh</a>|
 ## Tools
 -  Version Control: Git, GitHub
 -  Programming & Scripting Languages:Python, Bash
