@@ -1,7 +1,7 @@
 # Hello, I'm George Ajayi
 <a href="https://linkedin.com/in/george-ajayi-9176b1241"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-Experienced cybersecurity professional and consultant with a strong foundation in securing systems and infrastructure. Skilled in implementing DevSecOps practices to enhance security posture and mitigate risks. 
+Experienced cybersecurity professional with a strong foundation in securing systems and infrastructure. Skilled in implementing DevSecOps practices to enhance security posture and mitigate risks. 
 
 
 ## Objective
