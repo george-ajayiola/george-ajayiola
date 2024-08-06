@@ -25,8 +25,13 @@ Highly motivated cybersecurity professional with a strong passion for leveraging
 - Security Tools: SIEM solutions, Wazuh, Nessus, OWASP ZAP
 - Service Mesh: Istio
 - Collaboration Tools: Jira
-### SIEM
+## SIEM
 <div>
     <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
     <img src="https://img.shields.io/badge/-Wazuh-1E90FF?&style=for-the-badge&logo=Wazuh&logoColor=white" />
 </div>
+
+## Certifications
+[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
+<div>
+<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
