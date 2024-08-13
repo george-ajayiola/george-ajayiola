@@ -17,12 +17,12 @@ Highly motivated cybersecurity professional with a strong passion for leveraging
 | Kubernetes Security: Ensuring Compliance and Vulnerability Management in Kubernetes Clusters|  <a href="https://github.com/george-ajayiola/kubescape-demo">K8s Security Scan</a>|
 | Comprehensive Microservices Security|  <a href="https://github.com/george-ajayiola/istio-servicemesh-setup">Istio Service mesh</a>|
 ## Tools
--  Version Control: Git, GitHub
--  Programming & Scripting Languages:Python, Bash
--  CI/CD: Jenkins, ArgoCD
--  Monitoring: Prometheus, Grafanna, Kiali
+-  Version Control: GitHub
+-  Programming & Scripting Languages:Python
+-  CI/CD: Jenkins, ArgoCD, Github Actions
+-  Monitoring: Prometheus, Grafanna
 - Containerization & Orchestration: Docker, Kubernetes
-- Security Tools: SIEM solutions, Wazuh, Nessus, OWASP ZAP
+- Security Tools: Wazuh, Nessus, OWASP ZAP
 - Service Mesh: Istio
 - Collaboration Tools: Jira
 ## SIEM
