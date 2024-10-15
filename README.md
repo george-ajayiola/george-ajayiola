@@ -12,6 +12,7 @@ Highly motivated cybersecurity professional with a strong passion for leveraging
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
+| Static Website Deployment on Azure Virtual Machine using Terraform         | <a href="https://github.com/george-ajayiola/static-web-public-vm">Azure project</a>|
 | SIEM Implementation and Log Analysis          | <a href="https://github.com/george-ajayiola/azure-sentinel-monitor-live-attacks">SIEM Lab</a>|
 | Intrusion Detection System Implementation and Active Threat Response     | <a href="https://github.com/george-ajayiola/Intrusion-detection-lab-with-wazuh">Intrusion detection lab</a>|
 | Kubernetes Security: Ensuring Compliance and Vulnerability Management in Kubernetes Clusters|  <a href="https://github.com/george-ajayiola/kubescape-demo">K8s Security Scan</a>|
