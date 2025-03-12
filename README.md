@@ -37,3 +37,6 @@ Highly motivated cybersecurity professional with a strong passion for leveraging
 ## Certifications
 <div>
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+  <img src="https://img.shields.io/badge/-AWS%20Certified%20Solutions%20Architect%20Associate-232F3E?style=for-the-badge&logo=AmazonAWS&logoColor=white" />
+
+</div>
