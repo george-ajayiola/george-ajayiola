@@ -3,11 +3,6 @@
 
 Experienced cybersecurity professional with a strong foundation in securing systems and infrastructure. Skilled in implementing DevSecOps practices to enhance security posture and mitigate risks. 
 
-
-## Objective
-
-Highly motivated cybersecurity professional with a strong passion for leveraging cutting-edge technology to address complex security challenges. Dedicated to continuous learning and innovation, I aim to protect organizational assets, enhance security protocols, and contribute to the development of robust, secure systems. Seeking to apply my expertise in a dynamic environment where I can drive impactful cybersecurity initiatives and foster a culture of security awareness and resilience.
-
 ## Skills
 
 | Skill                                         | Associated Project         |
