@@ -12,6 +12,7 @@ Highly motivated cybersecurity professional with a strong passion for leveraging
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
+|Library Management System – Microservices Architecture & AWS Deployment     | <a href="https://github.com/george-ajayiola/frontend-api-django">Microservice project</a>|                                   
 | Static Website Deployment on Azure Virtual Machine using Terraform         | <a href="https://github.com/george-ajayiola/static-web-public-vm">Azure project</a>|
 |Linkerd Service mesh Observability         | <a href="https://github.com/george-ajayiola/Linkerd-service-mesh-monitoring">Observability with Prometheus & Grafana</a>|
 | SIEM Implementation and Log Analysis          | <a href="https://github.com/george-ajayiola/azure-sentinel-monitor-live-attacks">SIEM Lab</a>|
